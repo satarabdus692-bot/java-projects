@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You may freely edit this file. See commented blocks below for description -->
+<!-- of possible values and default values. -->
+<!-- (If you are using an IDE, see the project properties -->
+<!-- or preferences dialog for a visual editor of the following). -->
+<project name="ShopManagement" default="default" basedir=".">
+    <description>Builds, tests, and runs the project ShopManagement.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
